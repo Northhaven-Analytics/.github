@@ -9,7 +9,7 @@ Our mission is to continually refine our systems to ensure maximum efficiency an
 <p>If you're ready and want to help in making progress in AI world, let us know by email message.</p>
 
 ## 👩‍💻 Check our socials:
-www.northhavenanalytisc.com
+www.northhavenanalytics.com
 
 <!--!
 
