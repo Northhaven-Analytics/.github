@@ -1,25 +1,67 @@
-
-![northhaven_logo](https://github.com/user-attachments/assets/6b58589f-7c55-47c1-a0a6-cc466296a98e)
 <p align="center">
-  We create high-quality synthetic data for quantitative and financial organizations, empowering them to train smarter, more reliable AI models.
-Our mission is to continually refine our systems to ensure maximum efficiency and impact — with our clients always being our top priority.
+  <img src="https://raw.githubusercontent.com/Northhaven-Analytics/.github/main/profile/assets/northhaven_logo.jpg" alt="Northhaven Analytics Logo"  />
+  
 </p>
 
-## 💁‍♂️ How you can help?
-<p>If you're ready and want to help in making progress in AI world, let us know by email message.</p>
+<h1 align="center">Northhaven Analytics</h1>
 
-## 👩‍💻 Check our socials:
-www.northhavenanalytics.com
+<p align="center">
+  <strong>High-quality synthetic data for quantitative & financial intelligence</strong>
+</p>
 
-<!--!
+<p align="center">
+  <a href="https://northhavenanalytics.com">🌐 Website</a>
+  ·
+  <a href="https://www.linkedin.com/company/northhaven-analytics/">💼 LinkedIn</a>
+</p>
 
+---
 
-**Here are some ideas to get you started:**
+## 🧠 About Us
 
+**Northhaven Analytics** builds **high-quality synthetic data** designed for quantitative and financial organizations.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We help teams train **more reliable, privacy-preserving, and production-ready AI models**, without compromising data quality or security.
+
+Our mission is simple:  
+**continuously refine our systems to maximize efficiency and real-world impact — with our clients always as the top priority.**
+
+---
+
+## ⚙️ What We Focus On
+
+- 📊 Synthetic financial & quantitative datasets  
+- 🤖 Data for AI & machine learning training  
+- 🔐 Privacy-first data generation  
+- 📈 Scalable research & production pipelines  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Northhaven-Analytics/.github/main/profile/assets/collaboration_two.svg" alt="Northhaven Analytics Logo"  />
+  
+</p>
+
+## 🤝 Collaboration
+
+We’re open to collaboration with people and teams interested in:
+
+- Artificial Intelligence & Machine Learning  
+- Quantitative Research  
+- Data Engineering  
+- Applied Finance  
+
+If you want to work with us or contribute — feel free to reach out.
+
+---
+
+## 🌍 Connect With Us
+
+- 🌐 **Website:** https://northhavenanalytics.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/company/northhaven-analytics/
+
+---
+
+<p align="center">
+  <em>Northhaven Analytics — engineered data for intelligent systems.</em>
+</p>
