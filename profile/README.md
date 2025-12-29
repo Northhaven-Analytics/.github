@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://northhavenanalytics.com">🌐 Website</a>
   ·
-  <a href="https://www.linkedin.com/company/northhaven-analytics/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/company/northhavenanalytics">💼 LinkedIn</a>
 </p>
 
 ---
@@ -58,7 +58,7 @@ If you want to work with us or contribute — feel free to reach out.
 ## 🌍 Connect With Us
 
 - 🌐 **Website:** https://northhavenanalytics.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/company/northhaven-analytics/
+- 💼 **LinkedIn:** https://www.linkedin.com/company/northhavenanalytics
 
 ---
 
